@@ -1,0 +1,8 @@
+{
+  "domain": "ovh",
+  "name": "OVH DynHost",
+  "documentation": "https://www.home-assistant.io/integrations/ovh",
+  "codeowners": ["@GuilleGF"],
+  "iot_class": "cloud_polling",
+  "version": "2.0.0"
+}
